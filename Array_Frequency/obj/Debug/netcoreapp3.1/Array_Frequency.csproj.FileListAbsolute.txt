@@ -1,0 +1,13 @@
+D:\C#\Array_Frequency\bin\Debug\netcoreapp3.1\Array_Frequency.exe
+D:\C#\Array_Frequency\bin\Debug\netcoreapp3.1\Array_Frequency.deps.json
+D:\C#\Array_Frequency\bin\Debug\netcoreapp3.1\Array_Frequency.runtimeconfig.json
+D:\C#\Array_Frequency\bin\Debug\netcoreapp3.1\Array_Frequency.runtimeconfig.dev.json
+D:\C#\Array_Frequency\bin\Debug\netcoreapp3.1\Array_Frequency.dll
+D:\C#\Array_Frequency\bin\Debug\netcoreapp3.1\Array_Frequency.pdb
+D:\C#\Array_Frequency\obj\Debug\netcoreapp3.1\Array_Frequency.csprojAssemblyReference.cache
+D:\C#\Array_Frequency\obj\Debug\netcoreapp3.1\Array_Frequency.AssemblyInfoInputs.cache
+D:\C#\Array_Frequency\obj\Debug\netcoreapp3.1\Array_Frequency.AssemblyInfo.cs
+D:\C#\Array_Frequency\obj\Debug\netcoreapp3.1\Array_Frequency.csproj.CoreCompileInputs.cache
+D:\C#\Array_Frequency\obj\Debug\netcoreapp3.1\Array_Frequency.dll
+D:\C#\Array_Frequency\obj\Debug\netcoreapp3.1\Array_Frequency.pdb
+D:\C#\Array_Frequency\obj\Debug\netcoreapp3.1\Array_Frequency.genruntimeconfig.cache
